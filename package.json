@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/Informed/koa-s3-sign-upload#readme",
   "dependencies": {
-    "aws-sdk": "2.348.0",
+    "aws-sdk": "2.749.0",
     "koa-router": "^5.4.1",
     "node-uuid": "^1.4.7"
   }
